@@ -6,3 +6,4 @@
 ####  4. [(1) Two Sum](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/two_sum.py)
 ####  5. [(2028) Find Missing Observations](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/Find%20Missing%20Observations.py)
 ####  6. [(884) Uncommon word from 2 sentence](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/uncommon_words_in_2_sen.py)
+####  7. [(179) Largest Number](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/Largest_Number.py)
