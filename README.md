@@ -8,3 +8,4 @@
 ####  6. [(884) Uncommon word from 2 sentence](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/uncommon_words_in_2_sen.py)
 ####  7. [(179) Largest Number](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/Largest_Number.py)
 ####  8. [(241) Different ways to add parenthesis](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/Different%20Ways%20to%20add%20parenthes.py)
+####  9. [(641) Design Circular Dequeue](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/Design%20Circular%20Deque.py)
