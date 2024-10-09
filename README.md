@@ -10,3 +10,4 @@
 ####  8. [(241) Different ways to add parenthesis](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/Different%20Ways%20to%20add%20parenthes.py)
 ####  9. [(641) Design Circular Dequeue](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/Design%20Circular%20Deque.py)
 ####  10. [(2491) Divide Player Into Teams of Equal skills](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/DividePlayerIntoTeamsofEqualskills.py) 
+####  11. [(921) Minimum Add make parenthesis valid](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/Minimum%20Add%20make%20parenthesis%20valid.py)
