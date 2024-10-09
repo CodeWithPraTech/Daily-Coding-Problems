@@ -11,3 +11,4 @@
 ####  9. [(641) Design Circular Dequeue](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/Design%20Circular%20Deque.py)
 ####  10. [(2491) Divide Player Into Teams of Equal skills](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/DividePlayerIntoTeamsofEqualskills.py) 
 ####  11. [(921) Minimum Add make parenthesis valid](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/Minimum%20Add%20make%20parenthesis%20valid.py)
+####  12. [(2739) Total Distance Travelled](https://github.com/CodeWithPraTech/Daily-Coding-Problems/blob/main/Total%20Distance%20Travelled.py)
